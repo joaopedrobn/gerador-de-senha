@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.7.2/css/all.min.css"
+    />
+    <link rel="stylesheet" href="src/styles/style.css" />
+    <title>Gerador de Senhas</title>
+  </head>
+  <body>
+    <div id="container">
+      <img src="images/illustration.svg" id="password_img" alt="" />
+
+      <h1 id="title">Gerar senha</h1>
+
+      <div id="password_container">
+        <span id="password"></span>
+        <button id="copy">
+          <i class="fa-solid fa-copy"></i>
+        </button>
+      </div>
+
+      <ddiv id="password_items">
+        <div class="item">
+          <input id="size" name="size" type="number" />
+          <label for="size"> Quantidade de caracteres </label>
+        </div>
+
+        <div class="item">
+          <input
+            id="include_uppercase"
+            name="include_uppercase"
+            type="checkbox"
+          />
+          <label for="include_uppercase"> Incluir letra maiúscula </label>
+        </div>
+
+        <div class="item">
+          <input
+            id="include_lowercase"
+            name="include_lowercase"
+            type="checkbox"
+          />
+          <label for="include_lowercase"> Incluir letra minuscúla </label>
+        </div>
+
+        <div class="item">
+          <input id="include_number" name="include_number" type="checkbox" />
+          <label for="include_number"> Incluir número </label>
+        </div>
+
+        <div class="item">
+          <input
+            id="incluse_special_caracter"
+            name="incluse_special_caracter"
+            type="checkbox"
+          />
+          <label for="incluse_special_caracter">
+            Incluir caractere especial
+          </label>
+        </div>
+
+        <button id="generate">Gerar senha</button>
+      </ddiv>
+    </div>
+  </body>
+</html>
