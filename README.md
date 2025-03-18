@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/004c9338-f953-4a9e-a26b-cb075ab42256)
 
-Visite o projeto [**aqui!**](https://github.com/joaopedrobn/gerador-de-senha)
+Visite o projeto [**aqui!**](https://joaopedrobn.github.io/gerador-de-senha/)
 
 ## 📌 Descrição
 
