@@ -14,7 +14,7 @@ Este é um **Gerador de Senhas** desenvolvido para criar senhas fortes e persona
 - 🔡 Opção para incluir **letras minúsculas**.
 - 🔠 Opção para incluir **letras maiúsculas**.
 - 🔢 Opção para incluir **números**.
-- <0xF0><0x9F><0x94><0xAB> Opção para incluir **caracteres especiais**.
+- 🔢 Opção para incluir **caracteres especiais**.
 - ✅ Geração de senha segura com base nas opções selecionadas.
 
 ## 🛠️ Tecnologias Utilizadas
