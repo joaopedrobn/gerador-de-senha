@@ -30,10 +30,10 @@ Este é um **Gerador de Senhas** desenvolvido para criar senhas fortes e persona
 2️⃣ **Defina o comprimento da senha** desejado no campo "Password Length".
 
 3️⃣ **Marque as caixas** correspondentes aos tipos de caracteres que você deseja incluir na sua senha:
-   - "Include Uppercase Letter" para letras maiúsculas.
-   - "Include Lowercase Letter" para letras minúsculas.
-   - "Include Number" para números.
-   - "Include Special Character" para caracteres especiais.
+   - "Incluir Letas Maiúsculas" para letras maiúsculas.
+   - "Incluir Letas Minúsculas" para letras minúsculas.
+   - "Incluir Números" para números.
+   - "Incluir Caracteres Especiais" para caracteres especiais.
 
 4️⃣ Clique no botão **"Generate Password"**.
 
