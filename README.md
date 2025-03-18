@@ -1,6 +1,6 @@
 # 🔒 Gerador de Senhas
 
-![image](https://github.com/user-attachments/assets/bed00a55-0b1d-4666-8145-99f60be56cee)
+![image](https://github.com/user-attachments/assets/004c9338-f953-4a9e-a26b-cb075ab42256)
 
 Visite o projeto [**aqui!**](https://github.com/joaopedrobn/gerador-de-senha)
 
