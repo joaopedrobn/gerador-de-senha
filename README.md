@@ -41,4 +41,4 @@ Este é um **Gerador de Senhas** desenvolvido para criar senhas fortes e persona
 
 ## 🏆 Créditos
 
-Este projeto foi inspirado e baseado no conceito de geradores de senha apresentados por **Larissa Kich**. Agradeço pela inspiração.
+Este projeto foi inspirado e baseado no conceito de geradores de senha apresentados por [Larissa Kich](https://github.com/Larissakich). Agradeço pela inspiração.
