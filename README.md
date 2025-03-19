@@ -2,7 +2,7 @@
 
 ![image](https://github.com/user-attachments/assets/004c9338-f953-4a9e-a26b-cb075ab42256)
 
-Visite o projeto [**aqui!**](https://joaopedrobn.github.io/gerador-de-senha/)
+Visite o projeto [aqui](https://joaopedrobn.github.io/gerador-de-senha/).
 
 ## 📌 Descrição
 
@@ -42,7 +42,3 @@ Este é um **Gerador de Senhas** desenvolvido para criar senhas fortes e persona
 ## 🏆 Créditos
 
 Este projeto foi inspirado e baseado no conceito de geradores de senha apresentados por **Larissa Kich**. Agradeço pela inspiração.
-
----
-
-📌 **Sinta-se livre para usar, modificar e contribuir com este projeto!** 🚀
